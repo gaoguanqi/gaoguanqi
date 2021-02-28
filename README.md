@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaoguanqi&theme=vue&layout=compact)](https://github.com/gaoguanqi)
    
- <img src="https://github-profile-trophy.vercel.app/?username=gaoguanqi&theme=flat& alt="logo" align="center" style="margin: auto;"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=gaoguanqi&theme=flat"/>
