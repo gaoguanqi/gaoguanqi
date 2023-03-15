@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-### Hi there 👋
 
 ⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.01 %
-
----
-
-⏰ Updated on Wed, 15 Mar 2023 00:39:47 GMT
 
 ---
 ### My GitHub Contributions    
