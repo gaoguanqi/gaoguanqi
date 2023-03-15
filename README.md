@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.01 %
+⏳ Year progress ${progressBarOfThisYear} ${(progressBarOfThisYear * 100).toFixed(2)} %
 
 ---
 ### My GitHub Contributions    
