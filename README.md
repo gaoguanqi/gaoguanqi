@@ -2,6 +2,8 @@
 
 ### My GitHub Contributions    
 
+![](https://raw.githubusercontent.com/gaoguanqi/gaoguanqi/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **gaoguanqi/gaoguanqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
