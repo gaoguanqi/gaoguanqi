@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+### Hi there 👋
+
+⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 20.01 %
+
+---
+
+⏰ Updated on Wed, 15 Mar 2023 00:39:47 GMT
+
+---
+### My GitHub Contributions    
+
 <!--
 **gaoguanqi/gaoguanqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
